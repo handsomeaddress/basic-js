@@ -107,4 +107,3 @@ describe('Transform array', () => {
 
     });
 });
-
